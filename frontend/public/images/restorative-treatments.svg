@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Restorative treatments">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#daf5ef"/>
+      <stop offset="100%" stop-color="#ffe5cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#g3)"/>
+  <path d="M240 100h320v80h-320z" fill="#fff"/>
+  <path d="M290 180h220v130a110 110 0 0 1-220 0z" fill="#fff" stroke="#0c8b8f" stroke-width="12"/>
+  <rect x="375" y="120" width="50" height="220" fill="#0c8b8f" opacity="0.2"/>
+</svg>

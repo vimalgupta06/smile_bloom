@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Pediatric dentistry">
+  <rect width="800" height="400" fill="#dff6ff"/>
+  <circle cx="220" cy="190" r="90" fill="#fff"/>
+  <circle cx="410" cy="190" r="90" fill="#fff"/>
+  <circle cx="600" cy="190" r="90" fill="#fff"/>
+  <circle cx="220" cy="170" r="12" fill="#0c8b8f"/>
+  <circle cx="410" cy="170" r="12" fill="#0c8b8f"/>
+  <circle cx="600" cy="170" r="12" fill="#0c8b8f"/>
+  <path d="M170 220c30 25 70 25 100 0" stroke="#f4a259" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M360 220c30 25 70 25 100 0" stroke="#f4a259" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M550 220c30 25 70 25 100 0" stroke="#f4a259" stroke-width="12" fill="none" stroke-linecap="round"/>
+</svg>

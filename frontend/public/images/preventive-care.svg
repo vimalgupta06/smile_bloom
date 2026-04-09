@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Preventive care">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b7f3f0"/>
+      <stop offset="100%" stop-color="#f4f0dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#g1)"/>
+  <circle cx="170" cy="140" r="90" fill="#fff" opacity="0.7"/>
+  <path d="M470 90c57 0 110 42 110 103 0 78-60 145-110 176-50-31-110-98-110-176 0-61 53-103 110-103z" fill="#fff" stroke="#0c8b8f" stroke-width="12"/>
+  <rect x="525" y="140" width="40" height="115" rx="20" fill="#0c8b8f"/>
+  <rect x="490" y="176" width="110" height="40" rx="20" fill="#0c8b8f"/>
+</svg>
